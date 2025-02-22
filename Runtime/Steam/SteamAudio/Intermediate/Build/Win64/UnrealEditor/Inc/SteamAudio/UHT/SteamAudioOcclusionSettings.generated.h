@@ -1,0 +1,104 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "SteamAudioOcclusionSettings.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef STEAMAUDIO_SteamAudioOcclusionSettings_generated_h
+#error "SteamAudioOcclusionSettings.generated.h already included, missing '#pragma once' in SteamAudioOcclusionSettings.h"
+#endif
+#define STEAMAUDIO_SteamAudioOcclusionSettings_generated_h
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_SPARSE_DATA
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_RPC_WRAPPERS
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_ACCESSORS
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSteamAudioOcclusionSettings(); \
+	friend struct Z_Construct_UClass_USteamAudioOcclusionSettings_Statics; \
+public: \
+	DECLARE_CLASS(USteamAudioOcclusionSettings, UOcclusionPluginSourceSettingsBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SteamAudio"), NO_API) \
+	DECLARE_SERIALIZER(USteamAudioOcclusionSettings)
+
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_INCLASS \
+private: \
+	static void StaticRegisterNativesUSteamAudioOcclusionSettings(); \
+	friend struct Z_Construct_UClass_USteamAudioOcclusionSettings_Statics; \
+public: \
+	DECLARE_CLASS(USteamAudioOcclusionSettings, UOcclusionPluginSourceSettingsBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/SteamAudio"), NO_API) \
+	DECLARE_SERIALIZER(USteamAudioOcclusionSettings)
+
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USteamAudioOcclusionSettings(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USteamAudioOcclusionSettings) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USteamAudioOcclusionSettings); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USteamAudioOcclusionSettings); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USteamAudioOcclusionSettings(USteamAudioOcclusionSettings&&); \
+	NO_API USteamAudioOcclusionSettings(const USteamAudioOcclusionSettings&); \
+public: \
+	NO_API virtual ~USteamAudioOcclusionSettings();
+
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USteamAudioOcclusionSettings(USteamAudioOcclusionSettings&&); \
+	NO_API USteamAudioOcclusionSettings(const USteamAudioOcclusionSettings&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USteamAudioOcclusionSettings); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USteamAudioOcclusionSettings); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USteamAudioOcclusionSettings) \
+	NO_API virtual ~USteamAudioOcclusionSettings();
+
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_43_PROLOG
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_SPARSE_DATA \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_RPC_WRAPPERS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_ACCESSORS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_INCLASS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_SPARSE_DATA \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_ACCESSORS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_INCLASS_NO_PURE_DECLS \
+	FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h_46_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> STEAMAUDIO_API UClass* StaticClass<class USteamAudioOcclusionSettings>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_buildslave_phonon_rel_unreal_win64_build_unreal_build_windows_vs2019_x64_src_HostProject_Plugins_SteamAudio_Source_SteamAudio_Public_SteamAudioOcclusionSettings_h
+
+
+#define FOREACH_ENUM_ETRANSMISSIONTYPE(op) \
+	op(ETransmissionType::FREQUENCY_INDEPENDENT) \
+	op(ETransmissionType::FREQUENCY_DEPENDENT) 
+
+enum class ETransmissionType : uint8;
+template<> struct TIsUEnumClass<ETransmissionType> { enum { Value = true }; };
+template<> STEAMAUDIO_API UEnum* StaticEnum<ETransmissionType>();
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
