@@ -10,7 +10,7 @@
 	"DocsURL": "https://valvesoftware.github.io/steam-audio/doc/unreal/index.html",
 	"MarketplaceURL": "",
 	"SupportURL": "https://steamcommunity.com/app/596420",
-	"EnabledByDefault": false,
+	"EnabledByDefault": true,
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"Installed": false,
