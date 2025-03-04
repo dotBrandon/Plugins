@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OptickPlugin.cpp.obj": [
+			"OptickCommands.cpp.obj",
+			"OptickPlugin.cpp.obj",
+			"OptickStyle.cpp.obj",
+			"optick_capi.cpp.obj",
+			"optick_core.cpp.obj",
+			"optick_gpu.cpp.obj",
+			"optick_gpu.d3d12.cpp.obj",
+			"optick_gpu.vulkan.cpp.obj",
+			"optick_message.cpp.obj",
+			"optick_miniz.cpp.obj",
+			"optick_serialization.cpp.obj",
+			"optick_server.cpp.obj"
+		]
+	}
+}

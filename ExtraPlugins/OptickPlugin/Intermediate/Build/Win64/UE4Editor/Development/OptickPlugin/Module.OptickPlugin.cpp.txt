@@ -1,0 +1,235 @@
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Intermediate\Build\Win64\UE4Editor\Development\OptickPlugin\Definitions.OptickPlugin.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/Private/OptickCommands.cpp
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\Private\OptickCommands.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\Private\OptickStyle.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/Private/OptickPlugin.cpp
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\Stats/StatsData.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\Public\IOptickPlugin.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\Private\OptickUE4Classes.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\RenderCore\Public\ProfilingDebugging/TracingProfiler.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\DesktopPlatformModule.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\IDesktopPlatform.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor\UnrealEd\Classes\Editor/EditorPerformanceSettings.h
+E:\Unreal Engine\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorPerformanceSettings.generated.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor/LevelEditor/Public/LevelEditor.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor/UnrealEd/Public/SEditorViewportToolBarMenu.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Editor\UnrealEd\Public\SViewportToolBar.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects/Public/Interfaces/IPluginManager.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick.config.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/Private/OptickStyle.cpp
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Engine\Public\Slate/SlateGameResources.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyleRegistry.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_capi.cpp
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_capi.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_core.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\mutex
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_chrono.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\ratio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_sanitizer_annotate_container.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_string_view.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\thread
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\memory
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\math.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\vcruntime_startup.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_common.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core/Public/Windows/AllowWindowsPlatformTypes.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\ime_cmodes.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\Core/Public/Windows/HideWindowsPlatformTypes.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_memory.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\array
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\sstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_ostream.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\share.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\locale.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\unordered_set
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xhash
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\vector
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_bit_utils.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xbit_ops.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\unordered_map
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_message.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_serialization.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_gpu.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_core.cpp
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_server.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\algorithm
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_heap_algorithms.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_minmax.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\fstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\__msvc_filebuf.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\iomanip
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xlocmon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE\xloctime
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_core.win.h
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_core.platform.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\psapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\wmistr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\evntrace.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\evntcons.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\evntprov.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\DbgHelp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\minidumpapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\poppack.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_gpu.cpp
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_gpu.d3d12.cpp
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_gpu.vulkan.cpp
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_message.cpp
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_miniz.cpp
+E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Source\ThirdParty\Optick\src\optick_miniz.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\assert.h
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_serialization.cpp
+E:/Unreal Engine/Projects/UTGame/Plugins/OptickPlugin/Source/ThirdParty/Optick/src/optick_server.cpp
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared\qos.h

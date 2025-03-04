@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ConsoleEnhanced.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine\Projects\UTGame\Intermediate\Build\Win64\UTGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\ConsoleEnhanced\Intermediate\Build\Win64\UE4Editor\Development\ConsoleEnhanced\Module.ConsoleEnhanced.cpp.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\ConsoleEnhanced\Intermediate\Build\Win64\UE4Editor\Development\ConsoleEnhanced\Module.ConsoleEnhanced.gen.cpp.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\ConsoleEnhanced\Intermediate\Build\Win64\UE4Editor\Development\ConsoleEnhanced\Default.rc2.res"
+/OUT:"E:\Unreal Engine\Projects\UTGame\Plugins\ConsoleEnhanced\Intermediate\Build\Win64\UE4Editor\Development\ConsoleEnhanced\UE4Editor-ConsoleEnhanced.lib"

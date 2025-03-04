@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ConsoleEnhanced.cpp.obj": [
+			"ConsoleEnhanced.cpp.obj",
+			"SDebugConsole.cpp.obj",
+			"SOutputLog.cpp.obj"
+		],
+		"Module.ConsoleEnhanced.gen.cpp.obj": [
+			"ConsoleEnhanced.init.gen.cpp.obj",
+			"LogDisplaySettings.gen.cpp.obj"
+		]
+	}
+}

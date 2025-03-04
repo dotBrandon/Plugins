@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OptickPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine\Projects\UTGame\Intermediate\Build\Win64\UTGameEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Intermediate\Build\Win64\UE4Editor\Development\OptickPlugin\Module.OptickPlugin.cpp.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Intermediate\Build\Win64\UE4Editor\Development\OptickPlugin\Default.rc2.res"
+/OUT:"E:\Unreal Engine\Projects\UTGame\Plugins\OptickPlugin\Intermediate\Build\Win64\UE4Editor\Development\OptickPlugin\UE4Editor-OptickPlugin.lib"

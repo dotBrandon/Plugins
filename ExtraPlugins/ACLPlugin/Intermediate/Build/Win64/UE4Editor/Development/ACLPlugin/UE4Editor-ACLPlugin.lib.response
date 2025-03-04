@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ACLPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine\Projects\MyProject\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPlugin\Module.ACLPlugin.cpp.obj"
+"E:\Unreal Engine\Projects\MyProject\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPlugin\Module.ACLPlugin.gen.cpp.obj"
+"E:\Unreal Engine\Projects\MyProject\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPlugin\Default.rc2.res"
+/OUT:"E:\Unreal Engine\Projects\MyProject\Plugins\ACLPlugin\Intermediate\Build\Win64\UE4Editor\Development\ACLPlugin\UE4Editor-ACLPlugin.lib"

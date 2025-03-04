@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AsyncLoadingScreen.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Engine\Projects\UTGame\Intermediate\Build\Win64\UTGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\AsyncLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\AsyncLoadingScreen\Module.AsyncLoadingScreen.cpp.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\AsyncLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\AsyncLoadingScreen\Module.AsyncLoadingScreen.gen.cpp.obj"
+"E:\Unreal Engine\Projects\UTGame\Plugins\AsyncLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\AsyncLoadingScreen\Default.rc2.res"
+/OUT:"E:\Unreal Engine\Projects\UTGame\Plugins\AsyncLoadingScreen\Intermediate\Build\Win64\UE4Editor\Development\AsyncLoadingScreen\UE4Editor-AsyncLoadingScreen.lib"
